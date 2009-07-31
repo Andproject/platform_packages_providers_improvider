@@ -31,6 +31,6 @@
     <string name="choose_account_title">"Chat – Vælg en konto"</string>
     <string name="conversations">"(%1$d)"</string>
     <string name="add_account">"Tilføj <xliff:g id="ACCOUNT">%1$s</xliff:g>-konto"</string>
-    <string name="menu_view_contact_list">"Liste over kontaktpersoner"</string>
+    <string name="menu_view_contact_list">"Liste over kontakter"</string>
     <string name="signing_in_wait">"Logger ind ..."</string>
 </resources>
